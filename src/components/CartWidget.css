@@ -1,0 +1,12 @@
+.cart-container{
+    display: flex;
+}
+
+.cart-icon{
+    align-self: center;
+    font-size: 18px;
+}
+
+.cart-number{
+    align-self: center;
+}

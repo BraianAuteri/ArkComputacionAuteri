@@ -1,0 +1,25 @@
+.navbar-container {
+    display: flex;
+    justify-content: space-around;
+    background: #ED213A;  /* fallback for old browsers */
+    background: linear-gradient(to right, #93291E, #ED213A);
+    padding: 7px;
+    display: flex;
+    font-size: 20px;
+    color: white;
+}
+
+.buttons-navbar {
+    background: none;
+    border: white solid 2px;
+    width: 100px;
+    height: 30px;
+    justify-content: space-around;
+    align-self: center;
+    color: white;
+}
+
+.buttons-navbar:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
