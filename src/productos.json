@@ -1,0 +1,63 @@
+{
+    "notebooks": [
+        {   
+            "foto":"./assets/img/notebooklenovo.png",
+            "marca": "Lenovo" ,
+            "modelo": "Thinkpad",
+            "description": "Intel Core i3 10110U, 4GB de RAM, 256GB SSD",
+            "precio": "13400$"
+        },
+        {   
+            "foto":"./assets/img/notebookdell.png",
+            "marca": "Dell" ,
+            "modelo": "Inspiron",
+            "description": "AMD Ryzen 5 3450U, 8GB de RAM, 256GB SSD",
+            "precio": "15100$"
+        },
+        {   
+            "foto":"./assets/img/notebookasus.png",
+            "marca": "Asus" ,
+            "modelo": "Vivobook",
+            "description": "Intel Core i5 11300h, 8GB de ram, 256Gb SSD",
+            "precio": "15100$"
+        },
+        {   
+            "foto":"./assets/img/notebookhp.png",
+            "marca": "HP" ,
+            "modelo": "15-dy2054la",
+            "description": "Intel Core i5 1135G7, 8GB de RAM, 256GB SSD",
+            "precio": "25100$"
+        }
+
+    ],
+    "perifericos": [
+        {   
+            "foto":"./assets/img/mouseHyperx.png",
+            "marca": "HyperX" ,
+            "modelo": "Pulsefire",
+            "description": "Sensor óptico, negro, 16000 DPI max, RGB",
+            "precio": "8300$"
+        },
+        {   
+            "foto":"./assets/img/mouseRazer.png",
+            "marca": "Razer" ,
+            "modelo": "Viper Mini",
+            "description": "Sensor óptico, negro, 8500 DPI max, RGB",
+            "precio": "6100$"
+        },
+        {   
+            "foto":"./assets/img/logitechg203.png",
+            "marca": "Logitech" ,
+            "modelo": "G203",
+            "description": "Sensor óptico, blanco, 8000 DPI max, RGB",
+            "precio": "5170$"
+        },
+        {   
+            "foto":"./assets/tecladoredragon.png",
+            "marca": "Redragon" ,
+            "modelo": "Mitra",
+            "description": "Teclado mecanico, RGB, Switches intercambiables, español",
+            "precio": "13999$"
+        }
+    ]
+}
